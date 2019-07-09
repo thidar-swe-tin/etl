@@ -1,0 +1,73 @@
+main page to collect product details page
+loop through the pages
+
+<a href="#" class="gopage" onclick="goPage('2');return false;">2</a>
+
+
+https://www.strawberrynet.com/en-us/skincare/cleansers/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=86&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=2&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=734&searchfield=
+
+https://www.strawberrynet.com/en-us/skincare/cleansers/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=86&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=8&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=734&searchfield=
+
+<a class="prodImgBlock col-xs-2 " href="/en-us/skincare/estee-lauder/advanced-night-repair-eye-synchronized/172053/" title="Estee Lauder Advanced Night Repair Eye Synchronized Complex II  15ml/0.5oz"><img data-src="https://b.cdnsbn.com/images/products/250/17205380601.jpg" class="img-responsive col-xs-8 lazy-loaded" alt="Estee Lauder Advanced Night Repair Eye Synchronized Complex II  15ml/0.5oz" src="https://b.cdnsbn.com/images/products/250/17205380601.jpg"><br>Click &gt;&gt;<div class="promo-img"><div class="promobanner promoNew5">Best Deals</div></div></a>
+
+
+1st page
+
+https://www.strawberrynet.com/en-us/skincare/cleansers/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=86&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=1&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=734&searchfield=
+
+https://www.strawberrynet.com/en-us/skincare/cleansers/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=86&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=1&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=734&searchfield=
+
+No. of reviews
+<span class="review-text mr5 ">2</span>
+
+No. of stars
+
+<span class="fleft"><img alt="" src="https://a.cdnsbn.com/images/common/star_full.gif"><img alt="" src="https://a.cdnsbn.com/images/common/star_full.gif"><img alt="" src="https://a.cdnsbn.com/images/common/star_full.gif"><img alt="" src="https://a.cdnsbn.com/images/common/star_full.gif"><img alt="" src="https://a.cdnsbn.com/images/common/star_full.gif"></span>
+
+review header
+
+<strong class="heading ">Highly recommend</strong>
+
+review content
+
+<p class="mt10">Part of my daily routine, always must have.</p>
+
+date
+
+<span class="fright ml10 mt-2 grey-color">24/07/2018</span>
+
+go to the last page of the review
+
+5 reviews/page
+
+<a href="#" onclick="goPage('10');return false;">10</a>
+
+Get the brand name
+
+<div class="col-sm-6 col-md-7 col-lg-7"><h2><a href="/skincare/shiseido/" title="Shiseido">Shiseido</a></h2>
+
+Get the product name
+            
+                    <div class="changeProd  prod120355">
+                        <h1>Benefiance Extra Creamy Cleansing Foam </h1>
+
+Image
+
+<img class="cloudzoom img-responsive imgzoom  Roll120355 Roll120355_0" src="https://a.cdnsbn.com/images/products/12035581401.jpg" data-cloudzoom="zoomImage: &quot;https://a.cdnsbn.com/images/products/l/12035581401.jpg&quot;,autoInside:350,zoomSizeMode:&quot;image&quot;" alt="Benefiance Extra Creamy Cleansing Foam  125ml/4.4oz" style="display: block; margin: auto; user-select: none;"> 
+
+
+96/page for products
+
+first page
+
+https://www.strawberrynet.com/en-us/skincare/masks/t/?groupid=4&sort=popularity
+
+second page
+
+https://www.strawberrynet.com/en-us/skincare/masks/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=123&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=2&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=591&searchfield=
+
+last page
+
+https://www.strawberrynet.com/en-us/skincare/masks/t/?groupid=4&sort=popularity#t=1&catgid=1&brandid=0&typeid=123&typeList=&funcid=0&lineid=&groupid=4&sort=popularity&page=7&filterids=&method=1&othcatgid=0&viewtype=list&type=productlist&lowerprice=&upperprice=&brandlist=&totalPage=591&searchfield=
+
+<iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe>

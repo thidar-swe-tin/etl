@@ -1,0 +1,23 @@
+links to all products
+
+link.get('href')
+
+category
+suncare: [{
+	product_url: 
+	brand_name: 
+	product_name: 
+	product_price: 
+	review_num: 
+	avg_stars: 
+	review_details: [{
+		review_date: 
+		review_header: 
+		review_comment: 
+		stars_num: 
+		}
+	}]
+
+statistics
+
+items_in_each_cat
